@@ -110,12 +110,12 @@ const HomePage = () => {
         <Layout title={"ALl Products - Best offers "}>
             {/* banner image */}
             <img
-                src="/images/banner.png"
+                src="/images/fresh.png"
                 className="banner-img"
                 alt="bannerimage"
                 width={"100%"}
             />
-            {/* banner image */}
+            {/* filter by category */}
             <div className="container-fluid row mt-3 home-page">
                 <div className="col-md-3 filters">
                     <h4 className="text-center">Filter By Category</h4>
